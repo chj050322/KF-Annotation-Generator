@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.chj050322.kfannotationgenerator
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
